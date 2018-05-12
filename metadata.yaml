@@ -1,0 +1,40 @@
+_repo: Rikos-ja-rangaistusKuusiosainen-romaani-ynn--epilogi_45263
+_version: 0.1.0
+alternative_title: Prestuplenie i nakazanie. Finnish
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dostoyevsky, Fyodor
+    aliases:
+    - Dostoievski, Fédor Mikhailovitch
+    - Dostoyevsky, F. M.
+    - Dostoevsky, Fyodor
+    - Dostoievski, Fiodor
+    - Достоевский, Фёдор Михайлович
+    - Dostoievski, Fedor Mikhailovitch
+    birthdate: 1821
+    deathdate: 1881
+    gutenberg_agent_id: '314'
+    url: http://www.gutenberg.org/2009/agents/314
+    wikipedia: http://en.wikipedia.org/wiki/Fyodor_Dostoevsky
+description: ''
+gutenberg_issued: '2014-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45263'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Psychological fiction'
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Russia -- Fiction'
+- !lcsh 'Saint Petersburg (Russia) -- Fiction'
+- !lcc 'PG'
+title: 'Rikos ja rangaistus
+
+  Kuusiosainen romaani ynnä epilogi'
+url: http://www.gutenberg.org/ebooks/45263
